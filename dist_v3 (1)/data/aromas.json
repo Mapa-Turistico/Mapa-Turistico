@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "CANINHAS ESCALENO/ALAMBIQUE DO BILO",
+        "lat": -22.7673353,
+        "lng": -46.6420484,
+        "zinder": 6,
+        "desc": "Visitação do alambique, degustação e vendas de cachaça e licores e também produtos orgânicos, encontros de ciclistas e motoqueiros. Futuramente haverá arborismo e outras atividades. Sábados das 12 às 20h e domingos das 10 às 20h e agendamentos durante a semana.",
+        "tel": "(11)99656-8785",
+        "address": "Bairro Aparecidinha",
+        "url": "",
+        "imgs": [
+            "ALAMBIQUE BILO 2.jpg",
+            "Alambique Bilo.jpg",
+            "Alambique Bilo3.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "CACHAÇA ARTESANAL FAZENDA VELHA - SÍTIO FUFU DA COBRA - FAZENDA VELHA ",
+        "lat": -22.7559195,
+        "lng": -46.5957423,
+        "zinder": 5,
+        "desc": "Venda de cachaça artesanal com degustação. Sábado das 8h às 17h com agendamento prévio.",
+        "tel": "(11)97175-0706",
+        "address": "Bairro Fazenda Velha",
+        "url": "",
+        "imgs": [
+            "CACHAÇA ARTESANAL FAZENDA VELHA.jpg",
+            "CACHAÇA ARTESANAL FAZENDA VELHA1.jpg",
+            "CACHAÇA ARTESANAL FAZENDA VELHA2.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "KALEVALA BIER",
+        "lat": -22.7442804, 
+        "lng": -46.5691343,
+        "zinder": 4,
+        "desc": "Degustação e venda de Chopp e cerveja artesanal. Sábados e feriados das 10:00 as 17:00h",
+        "tel": "(11)99830-4956",
+        "address": "Rua dos Jacarandás, 42 Bairro Jardim Pinhal",
+        "url": "https://business.google.com/website/kalevalabier",
+        "imgs": [
+            "KALEVALA BIER1.jpg",
+            "KALEVALA BIER2.jpg",
+            "KALEVALA BIER3.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "COGUMELOS OLIVEIRA",
+        "lat": -22.754257,
+        "lng": -46.5635072,
+        "zinder": 3,
+        "desc": "Visitação da produção e compras de cogumelos Paris e Porto Belo. 2ª a 6ª das 9:00 às 16:00. Sábado até às 12h.",
+        "tel": "(11)94166-9733",
+        "address": "Bairro Rosa Mendes",
+        "url": "https://www.solutudo.com.br/empresas/sp/pinhalzinho/comercio-atacadista-de-alimentos/cogumelos-oliveira-8066504",
+        "imgs": [
+            "Cogumelos Oliveira.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "COGUMELOS SANTA ROSA",
+        "lat": -22.7816914,
+        "lng": -46.5813398,
+        "zinder": 2,
+        "desc": "Visitação da produção e compra de cogumelos Shimeiji. De segunda à sexta das 9:00 às 12:00.",
+        "tel": "(11)99658-3173",
+        "address": "Variante Américo Pedro Benedetti - em frente ao hospital",
+        "url": "",
+        "imgs": [
+            "Cogumelos Santa Rosa.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "COGUMELOS DA CHÃO",
+        "lat": -22.810695,
+        "lng": -46.593191,
+        "zinder": 1,
+        "desc": "Visitação da produção e compras de cogumelos Paris e Porto Belo. 2ª a 6ª das 9:00 às 16:00 Sábado até às 12h",
+        "tel": "(11)94063-9527",
+        "address": "ESTRADA DA POSSE, KM 3,5 - BAIRRO DOS BOAVA",
+        "url": "https://www.cogumelosdachao.com.br/",
+        "imgs": [
+            "Cogumelos da Chão.jpg"
+        ]
+    }
+]

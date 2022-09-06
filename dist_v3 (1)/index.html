@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width" />
+  <link rel="stylesheet" href="style.min.css">
+  <script src="js/markerclusterer.min.js"></script>
+  <script async="" defer=""
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB7DPwa3_N-VWwv19eTEACun2_r7tyoJfc&amp;libraries=places"></script>
+</head>
+
+<body>
+  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+  <div class="bar-top"></div>
+
+  <a href="http://www.pinhalzinho.sp.gov.br/" class="back-site"><img data-src="images/arrow-danger.svg" />Retornar ao site</a>
+
+  <img class="logo-img" data-src="images/logo.svg" alt="Pinhalzinho - São Paulo" />
+  <img id="menu-mobile" data-src="images/menu/menu-mobile.svg" alt="menu" />
+
+  <div id="main-menu">
+    <div id="close-menu"></div>
+    <div id="veja-as-rotas" class="option-menu">
+      <div class="content">
+        <span>Veja as</span>
+        <h2>Rotas</h2>
+      </div>
+      <img class="trator" data-src="images/menu/trator.svg" alt="Veja as rotas" />
+    </div>
+    <div id="sobre-pinhalzinho" class="option-menu">
+      <div class="content">
+        <span>Sobre</span>
+        <h2>Pinhalzinho</h2>
+      </div>
+      <img class="coracao" data-src="images/menu/coracao.svg" alt="Sobre Pinhalzinho" />
+    </div>
+    <div id="conheca-servicos" class="option-menu">
+      <div class="content">
+        <span>Conheça os</span>
+        <h2>Serviços</h2>
+      </div>
+      <img class="cogumelo" data-src="images/menu/cogumelo.svg" alt="Conheça os serviços" />
+    </div>
+    <div id="busca-servicos" class="option-menu">
+      <img class="lupa" data-src="images/menu/lupa.svg" alt="Digite o que deseja" />
+      <input id="busca-servicos-input" placeholder="Digite o que deseja" type="search" name="search" />
+    </div>
+  </div>
+
+  <ul id="menu-rotas" class="menu-options">
+    <div id="close-menu-rotas"></div>
+    <li data-target="sabores" class="option">
+      <div class="pre-title">Rota dos</div>
+      <img data-src="./images/map/markers/sabores.svg" alt="" />
+      <div class="title">Sabores</div>
+    </li>
+    <li data-target="coresesons" class="option">
+      <div class="pre-title">Rota dos</div>
+      <img data-src="./images/map/markers/coresesons.svg" alt="" />
+      <div class="title">Cores e sons</div>
+    </li>
+    <li data-target="bemestar" class="option">
+      <div class="pre-title">Rota dos</div>
+      <img data-src="./images/map/markers/bem-estar.svg" alt="" />
+      <div class="title">Bem-estar</div>
+    </li>
+    <li data-target="experiencias" class="option">
+      <div class="pre-title">Rota dos</div>
+      <img data-src="./images/map/markers/experiencias.svg" alt="" />
+      <div class="title">Experiências</div>
+    </li>
+    <li data-target="aromas" class="option">
+      <div class="pre-title">Rota dos</div>
+      <img data-src="./images/map/markers/aromas.svg" alt="" />
+      <div class="title">Aromas</div>
+    </li>
+    <li data-target="todos" class="option">
+      <div class="pre-title">Todas as &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+      <img data-src="./images/map/markers/todos.svg" alt="" />
+      <div class="title">Rotas</div>
+    </li>
+  </ul>
+
+  <img id="layout-top" class="layout" lazy data-src="images/layout-top.svg" alt="" />
+  <img id="layout-bottom" class="layout" lazy data-src="images/layout-bottom.svg" alt="" />
+
+  <div id="map"></div>
+
+  <link rel="stylesheet" href="menu.min.css" />
+  <link rel="stylesheet" href="modal.min.css" />
+
+  <script src="js/menu.min.js"></script>
+  <script src="js/autocomplete.min.js"></script>
+  <script src="js/mapa.min.js"></script>
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+
+  <div class="credits">
+    <span>Create by <a href="https://amicd.com.br/" target="_blank">AMÍ Comunicação & Design</a></span>
+    <br/>
+    <span>Developed by <a href="http://www.douglasmofet.com.br/?origin=pinhalzinho" target="_blank">DouglasMofet</a>
+         and
+      <a href="https://github.com/EvertonBruce" target="_blank">EvertonBruce</a>
+    </span>
+  </div>
+</body>
+
+</html>

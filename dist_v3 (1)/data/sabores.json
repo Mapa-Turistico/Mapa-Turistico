@@ -1,0 +1,227 @@
+[
+    {
+        "id": 57,
+        "title": "BENDITA DITH  RESTAURANTE",
+        "lat": -22.782037,
+        "lng": -46.574401,
+        "zindex": 15,
+        "desc": "Restaurante rural. Comida típica brasileira que remetem a cultura caipira. Buffet servido em panelas de barro e capixaba. Ambiente familiar. Quinta e sexta das 18:30 às 24:00, sábado e domingo das 11:30 às 15:00 e das 18:30 às 24:00.",
+        "tel": "(11)94660-2442 / (11)99889-8230",
+        "address": "RURAL B ROSA MENDES,2733",
+        "url": "",
+        "imgs": [
+            "Restaurante Bendita Dith.jpg",
+            "restaurante Bendita Dith1.jpg",
+            "Restaurante Bendita Dith2.jpg"
+        ]
+    },
+    {
+        "id": 58,
+        "title": "EMPÓRIO, MERCEARIA E ADEGA BÃO DEMAIS",
+        "lat": -22.7792513,
+        "lng": -46.5893277,
+        "zindex": 14,
+        "desc": "Produtos da região:  bebidas, queijos e doces artesanais, com degustação. Ovos e frango caipiras e tudo para sua feijoada. Finais de semana torresmo de rolo. Terça à sábado: das 9h às 18h, Domingo: das  10h às 14h.",
+        "tel": "(11)96411-2507",
+        "address": "Rua Matilde Franco de Godoi, 69 centro",
+        "url": "https://www.facebook.com/permalink.php?id=1976412062400726&story_fbid=4242887392419837",
+        "imgs": []
+    },
+    {
+        "id": 59,
+        "title": "EMPÓRIO AROMA E SABOR",
+        "lat": -22.7459391,
+        "lng": -46.5659893,
+        "zindex": 13,
+        "desc": "Massas e pães artesanais por encomenda.",
+        "tel": " (11)99748-0640",
+        "address": "Rua Joaquim Antonio de Faria, 130  Jardim do Pinhal",
+        "url": "https://www.facebook.com/emporioaromasabor/",
+        "imgs": [
+            "EMPÓRIO AROMA _ SABOR3.jpg",
+            "EMPÓRIO AROMA_SABOR1.jpg",
+            "EMPÓRIO AROMA_SABOR2.jpg"
+        ]
+    },
+    {
+        "id": 60,
+        "title": "PIZZARIA KEKEL",
+        "lat": -22.7798567,
+        "lng": -46.5891619,
+        "zindex": 12,
+        "desc": "Pizzas, lanches, esfihas, porções, bebidas. Quarta a domingo 18h às 24h",
+        "tel": " (11)95075-5706",
+        "address": "Rua Florêncio Domingues, 136 centro",
+        "url": "https://www.facebook.com/kekelpizzaria/?rf=1154181201378451",
+        "imgs": [
+            "PIZZARIA KEKEL1.jpg",
+            "PIZZARIA  KEKEL2.jpg"
+        ]
+    },
+    {
+        "id": 61,
+        "title": "SORVETERIA DO JURA",
+        "lat": -22.7846884,
+        "lng": -46.5918658,
+        "zindex": 11,
+        "desc": "Sorvetes de todos os tipos. Primeira sorveteria de Pinhalzinho. Segunda a segunda das 9:00 as 19:00.",
+        "tel": " (11)97315-6887",
+        "address": " Rua Diógenes Domingues de Godoi, 120 Populares",
+        "url": "https://www.facebook.com/pages/category/Shopping---Retail/Sorveteria-do-Jura-107919060812723/",
+        "imgs": [
+            "SORVETERIA DO JURA1.jpg",
+            "SORVETERIA DO JURA2.jpg"
+        ]
+    },
+    {
+        "id": 62,
+        "title": "M. FRANCO CONVENIÊNCIA",
+        "lat": -22.7810133,
+        "lng": -46.5877816,
+        "zindex": 10,
+        "desc": "Consumo de mercadorias tais como bebidas, lanches, cafés, salgados entre outros. Há venda de produtos: pães,carne, salgados, bebidas, entre outros. Segunda a segunda das 6h às 22h.",
+        "tel": "(11)99872-2717",
+        "address": "Travessa Silvino de Campos, 1 centro",
+        "url": "",
+        "imgs": [
+            "M FRANCO CONVENIÊNCIA1.jpg",
+            "M FRANCO CONVENIÊNCIA2.jpg"
+        ]
+    },
+    {
+        "id": 63,
+        "title": "LEE GUZTA HAMBURGUERIA",
+        "lat": -22.780321,
+        "lng": -46.589187,
+        "zindex": 9,
+        "desc": "Lanches diferenciados, especialidade em hamburgueres, cervejas diferentes e refrigerantes importados. De quarta a segunda das 19h00 as 23h00",
+        "tel": "(11)97114-6070",
+        "address": "Praça São Lázaro, 64 centro",
+        "url": "https://www.facebook.com/Leeguztaburguer/",
+        "imgs": [
+            "LEE GUZTA HAMBURGUERIA1.jpg",
+            "LEE GUZTA HAMBURGUERIA2.jpg",
+            "LEE GUZTA HAMBURGUERIA3.jpg"
+        ]
+    },
+    {
+        "id": 64,
+        "title": "LINGUIÇA ARTESANAL ELIANE JULIO BATISTA",
+        "lat": -22.7748035,
+        "lng": -46.570183,
+        "zindex": 8,
+        "desc": "Venda de produtos artesanais: linguiças, doces e queijos. Terça a domingo  das 8:00 as 18:00hrs",
+        "tel": " (11)97250-8399",
+        "address": "Estrada Principal - Bairro do Areal",
+        "url": "",
+        "imgs": [
+            "LINGUIÇARIA ARTESANAL ELIANE1.jpg",
+            "LINGUIÇARIA ARTESANAL ELIANE2.jpg",
+            "LINGUIÇARIA ARTESANAL ELIANE3.jpg"
+        ]
+    },
+    {
+        "id": 65,
+        "title": "DOCE SABOR CAFETERIA E DOÇARIA",
+        "lat": -22.7795678,
+        "lng": -46.589732,
+        "zindex": 7,
+        "desc": "Venda de  cafés e chás, bolos, doces, tortas doces e salgadas, salgados, sorvetes e aceitamos encomendas para festas e eventos em geral. De segunda a sábado das 8h30 às 19hs.",
+        "tel": " (11)98923-1150",
+        "address": "Rua Florêncio Domingues, 74 centro",
+        "url": "https://www.facebook.com/docesabordocaria/",
+        "imgs": [
+            "CAFETERIA _ DOÇARIA DOCE SABOR2.jpg",
+            "CAFETRIA _ DOÇARIA DOCE SABOR.jpg"
+        ]
+    },
+    {
+        "id": 66,
+        "title": "RESTAURANTE O CAIPIRA",
+        "lat": -22.7946741,
+        "lng": -46.570716,
+        "zindex": 6,
+        "desc": "Comida caipira servida em fogão a lenha. Playground. Muita natureza pra curtir e tirar fotos. Loja com produtos artesanais. Paçoca feita no pilão, mel da região, vassoura caipira, doces, queijo, licores, cachaça e etc. Permitimos a companhia de animal de estimação. Sábados e domingos. Servimos o almoço das 11:00 as 15:00. Mas podem chegar mais cedo e ficar até a tarde",
+        "tel": "(11)4018-4429",
+        "address": "Rodovia Capitão Barduíno, km 112, Bairro dos Pintos fica a 1800 metros da rodovia.",
+        "url": "https://www.facebook.com/BarCaipira/",
+        "imgs": [
+            "Restaurante O Caipira.jpg",
+            "RESTAURANTE O CAIPIRA 1.jpg",
+            "RESTAURANTE O CAIPIRA 2.jpg"
+        ]
+    },
+    {
+        "id": 67,
+        "title": "MICA SORVETES",
+        "lat": -22.7805728,
+        "lng": -46.5893019,
+        "zindex": 5,
+        "desc": "Venda de sorvetes. De segunda a segunda da 13:00 as 19:00",
+        "tel": "(11)97248-4896",
+        "address": "Praça São Lázaro, 28   centro",
+        "url": "https://mica-sorvetes.negocio.site/",
+        "imgs": [
+            "MICA SORVETES1.jpg",
+            "MICA SORVETES 2.jpg"
+        ]
+    },
+    {
+        "id": 68,
+        "title": "IMPÉRIO DOCES E SALGADOS",
+        "lat": -22.7672399,
+        "lng": -46.5944633,
+        "zindex": 4,
+        "desc": "Encomendas de bolos, doces e salgados artesanais. Segunda a Sábado das 8:00 as 18:00, e aos domingos até 12:00.",
+        "tel": "(11)99555-0946",
+        "address": "Morro do Sabão, Bairro Fazenda Velha",
+        "url": "https://pt-br.facebook.com/floesRafaela/",
+        "imgs": [
+            "IMPÉRIO DOCES E SALGADOS1.jpg",
+            "IMPERIO DOCES E SALGADOS2.jpg"
+        ]
+    },
+    {
+        "id": 69,
+        "title": "BISTRÔ MIX",
+        "lat": -22.7798364,
+        "lng": -46.5883806,
+        "zindex": 3,
+        "desc": " sorvete, açaí, comida japonesa e porções, além de itens de empório, como queijos, vinhos e compotas. Local: junto à pousada coração das estâncias. ",
+        "tel": " (11)93290-9275",
+        "address": "Rua Matilde Franco de Godoi, 183 centro",
+        "url":"https://www.facebook.com/BISTROMIXPINHALZINHO/",
+        "imgs": [
+            "BISTRO MIX1.jpg",
+            "BISTRO MIX2.jpg"
+        ]
+    },
+    {
+        "id": 70,
+        "title": "RISTORANTE VILLA ITÁLIA",
+        "lat": -22.7788919,
+        "lng": -46.5927386,
+        "zindex": 2,
+        "desc": "Vivencie momentos em um ambiente único, desfrutando de uma gastronomia de qualidade. Massas frescas artesanais, carnes, peixes, vinhos e cervejas especiais. De quarta-feira à sábado, a partir das 12 horas para o almoço e das 19 horas para o jantar, e domingo a partir das 12 horas.",
+        "tel": " (11)97206-7125",
+        "address": "Rua Ambrosina Alves de Gogoy, 171  -  Jardim Albertina",
+        "url": "https://m.facebook.com/RistoranteVillaItalia/?locale2=pt_BR",
+        "imgs": [
+            "RISTORANTE_VILLA_ITALIA.png"
+        ]
+    },
+    {
+        "id": 71,
+        "title": "DOCES PINHALZINHO",
+        "lat": -22.7806111,
+        "lng": -46.5876259,
+        "zindex": 1,
+        "desc": "Venda de doces e biscoitos em geral. De segunda à sábado das 9:00 às 19:00.",
+        "tel": "(11)4018-4927",
+        "address": "Rua Matilde Franco de Godoi, 283 centro",
+        "url": "https://pt-br.facebook.com/pages/category/Specialty-Grocery-Store/Doces-Pinhalzinho-856482987864426/",
+        "imgs": [
+            "DOCES PINHALZINHO.jpg"
+        ]
+    }
+]

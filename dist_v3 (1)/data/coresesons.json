@@ -1,0 +1,33 @@
+[
+    {
+        "id": 35,
+        "title": "MORRO DO CRUZEIRO",
+        "lat": -22.7943915,
+        "lng": -46.5832184,
+        "zindex": 2,
+        "desc": "Mirante onde se tem uma belíssima paisagem com vista para toda a cidade.",
+        "tel": "",
+        "address": "Ir até o fim da Rua Frei Luciano Vagner - bairro do Matão ( Mutirão) e subir o Morro dos Macacos",
+        "url": "",
+        "imgs": [
+            "MIRANTE CRUZEIRO - Cópia.png",
+            "MORRO DO CRUZEIRO1 - Cópia.jpg"
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Cachoeira dos Vieiras",
+        "lat": -22.8048483, 
+        "lng": -46.5465419,
+        "zindex": 1,
+        "desc": "Cachoeira em propriedade particular mas de livre acesso, sem infra estrutura turística",
+        "tel": "",
+        "address": "",
+        "url": "",
+        "imgs": [
+            "cachoeira Vieiras1.jpg",
+            "cachoeira vieiras3.jpg",
+            "cachoeira vierias4.jpg"
+        ]
+    }
+]

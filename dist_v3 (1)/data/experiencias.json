@@ -1,0 +1,319 @@
+[
+    {
+        "id": 37,
+        "title": "RANCHO RENASCER",
+        "lat": -22.7534197,
+        "lng": -46.5497572,
+        "zindex": 21,
+        "desc": "Day use, servimos porções e bebidas e temos  pesqueiro e animais. Podem acampar passar o dia utilizar o espaço e as piscinas. Reservamos para eventos. Finais de semana e feriados",
+        "tel": "(11)97464-1091",
+        "address": "Rodovia Capitão Barduíno, km 117 Bairro Cachoeirinha",
+        "url": "https://www.facebook.com/ranchorenascerpinhalzinho/",
+        "imgs": [
+            "RANCHO RENASCER1.jpg",
+            "RANCHO RENASCER2.jpg",
+            "RANCHO RENASCER3.jpg",
+            "RANCHO RENASCER4.jpg"
+        ]
+    },
+    {
+        "id": 38,
+        "title": "BIBLIOTECA MUNICIPAL JOÃO TEIXEIRA GONÇALVES",
+        "lat": -22.7824548,
+        "lng": -46.5861183,
+        "zindex": 20,
+        "desc": "Livros paradidáticos, históricos, infantis e adulto. Segunda a sexta das 9:00 às 16:30",
+        "tel": "(11)4018-4349",
+        "address": "Rua Lázaro de Oliveira Preto, 579 Jardim Copacabana",
+        "url": "",
+        "imgs": [
+            "BIBLIOTECA MUNICIPAL1.jpg",
+            "BIBLIOTECA2.jpg"
+        ]
+    },
+    {
+        "id": 39,
+        "title": "MUSEU MUNICIPAL OCTAVIANO FORNARI",
+        "lat": -22.7824548,
+        "lng": -46.5860183,
+        "zindex": 19,
+        "desc": "Exposição de objetos antigos que fazem parte da história da cidade. Segunda a sexta das 9:00 às 16:30",
+        "tel": "(11)4018-4349",
+        "address": "Rua Lázaro de Oliveira Preto, 579 Jardim Copacabana",
+        "url": "",
+        "imgs": [
+            "MUSEU OCTAVIANO FORNARI1.jpg",
+            "MUSEU OCTAVIANO FORNARI2.jpg"
+        ]
+    },
+    {
+        "id": 40,
+        "title": "CASA DO ARTESÃO E POSTO DE INFORMAÇÃO TURÍSTICA",
+        "lat": -22.7821518,
+        "lng": -46.5846872,
+        "zindex": 18,
+        "desc": "Venda de produtos artesanais e Informações Turísticas. Segunda à sexta das 10:00 às 16:00.",
+        "tel": "",
+        "address": "Box 1 da Rodoviária",
+        "url": "",
+        "imgs": [
+            "PIT E CASA DO ARTESÃO1.jpg",
+            "PIT E CASA DO ARTESÃO2.jpg"
+        ]
+    },
+    {
+        "id": 41,
+        "title": "FEIRA DE ARTESANATO",
+        "lat": -22.7812054,
+        "lng": -46.5875358,
+        "zindex": 17,
+        "desc": "Venda de produtos artesanais. Sábados das 9:00 às 17:00",
+        "tel": "",
+        "address": "Praça Silvino de Campos",
+        "url": "",
+        "imgs": [
+            "FEIRA DE ARTESANATO1.jpg",
+            "FEIRA DE ARTESANATO2.jpg"
+        ]
+    },
+    {
+        "id": 42,
+        "title": "DECORE MARCENARIA RÚSTICA",
+        "lat": -22.7465143,
+        "lng": -46.5647699,
+        "zindex": 16,
+        "desc": "Venda de produtos rústicos em madeira. Fazemos por encomenda pergolados, parquinhos, decks, mesas, cadeiras, e outros, conforme necessidade do cliente. Segunda a sexta feira das 8:00 às 18:00.",
+        "tel": "(11)99890-4949",
+        "address": "Jardim do Pinhal",
+        "url": "https://www.facebook.com/pages/category/Furniture/Decore-Marcenaria-R%C3%BAstica-185408175612228/",
+        "imgs": [
+            "DECORE MARCENARIA RÚSTICA1.jpg",
+            "DECORE MARCENARIA RÚSTICA2.jpg"
+        ]
+    },
+    {
+        "id": 43,
+        "title": "PESQUEIRO RANCHO DO LAGO",
+        "lat": -22.805669,
+        "lng": -46.552279,
+        "zindex": 15,
+        "desc": "Pesca por quilo – tilápia. No local existe restaurante/lanchonete com porções e bebidas diversas. Espaço infantil com cama elástica, e um bom espaço verde para todas a família. Aos domingos música ao vivo. Sexta a domingo e feriados das 10h às 18h.",
+        "tel": "(11)97125-8496",
+        "address": "Rodovia Capitão Barduíno, km 110,2 - Bairro dos Vieiras",
+        "url": "https://www.facebook.com/ranchodolagoo/?rf=126738101474470",
+        "imgs": [
+            "PESQUEIRO POR DO SOL1.jpg",
+            "PESQUEIRO POR DO SOL2.jpg",
+            "PESQUEIRO POR DO SOL3.jpg"
+        ]
+    },
+    {
+        "id": 44,
+        "title": "HARAS NSA",
+        "lat": -22.7382904,
+        "lng": -46.5479207,
+        "zindex": 14,
+        "desc": "Aulas de rédeas, equitação básica para crianças e adultos, doma, ferreamento. Aluguel de baias e pouso para peregrinos. Passeios a cavalo com horários agendados com monitores no local. Diariamente das 9h às 18h.",
+        "tel": "(11)99642-4339",
+        "address": "Estrada Antonio de Paula, 20 Bairro Cachoeirinha",
+        "url": "",
+        "imgs": [
+            "HARAS NSA1.jpg",
+            "HARAS NSA2.jpg",
+            "HARAS NSA3.jpg"
+        ]
+    },
+    {
+        "id": 45,
+        "title": "EMPÓRIO DO JANIO-SÍTIO ISAÍAS",
+        "lat": -22.7577782,
+        "lng": -46.5974352,
+        "zindex": 13,
+        "desc": "Ordenha (logo cedo), produtos artesanais diversos à venda. Terá em breve um 'café'. Venda de queijos caseiros e artesanais doces, compotas, bebidas,  etc... Diariamente 7 Às 18h",
+        "tel": "(11)97218-1840",
+        "address": "Sítio Isaías - Bairro",
+        "url": "https://www.facebook.com/JanioPenteado/",
+        "imgs": [
+            "EMPÓRIO DO JANIO1.jpg",
+            "EMPÓRIO DO JANIO2.jpg"
+        ]
+    },
+    {
+        "id": 46,
+        "title": "SÍTIO VALE DA LUA AZUL - FRUTAS EXÓTICAS",
+        "lat": -22.8164444,
+        "lng": -46.5506940,
+        "zindex": 12,
+        "desc": "Sítio onde você pode conhecer e comprar frutas exóticas, fotografar. Em períodos de safra, temos goiaba, pitaya, lichia, figo da índia. 2ª a domingo 7 às 17h",
+        "tel": " (11)98666-9292",
+        "address": "Estrada Particular - Bairro da Posse",
+        "url": "",
+        "imgs": [
+            "AKIRA FRUTAS EXÓTICAS1.jpg",
+            "AKIRA FRUTAS EXÓTICAS2.jpg"
+        ]
+    },
+    {
+        "id": 47,
+        "title": "QUIOSQUE DA VÓ ANA",
+        "lat": -22.7581341,
+        "lng": -46.643429,
+        "zindex": 11,
+        "desc": "Venda de compotas, queijo, bebidas, caldo de cana, pastel, porções, tem show em datas especificas. Finais de semana.",
+        "tel": "(11)97229-4828",
+        "address": "Sítio Santa Terezinha  - Rua José Centofanti, 50  Bairro Aparecidinha",
+        "url": "https://www.solutudo.com.br/empresas/sp/pinhalzinho/lanches-lanchonetes/quiosque-da-vovo-8067743",
+        "imgs": [
+            "QUIOSQUE DA VÓ ANA1.jpg",
+            "QUIOSQUE DA VÓ ANA2.jpg"
+        ]
+    },
+    {
+        "id": 48,
+        "title": "SÍTIO DA CLAUDETE – VISITAÇÃO E ARTESANATO",
+        "lat": -22.775256,
+        "lng": -46.571370,
+        "zindex": 9,
+        "desc": "Passeios a cavalo e charrete, artesanato e produtos artesanais como geleias, compotas, queijo. 5ª à domingo das 9 às 17h ou por agendamento.",
+        "tel": "(11)97447-4201",
+        "address": "Sítio São Benedito  - Bairro Areal",
+        "url": "",
+        "imgs": [
+            "SITIO DA CLAUDETE.jpg"
+        ]
+    },
+    {
+        "id": 49,
+        "title": "GASOLLLA MÓVEIS RÚSTICOS",
+        "lat": -22.7807418,
+        "lng": -46.5636284,
+        "zindex": 8,
+        "desc": "Móveis rústicos e planejados, como playground, pergolados, deck, portões, bancos, mesas, porta balcão.Pronta entrega ou por encomenda. Terça a sábado 8:00 as 17:00",
+        "tel": "(11)99582-7944",
+        "address": "Rodovia Capitão Barduino, km 113,5  Estrada Rosa Mendes",
+        "url": "https://www.facebook.com/M%C3%B3veis-r%C3%BAsticos-gazolla-112721723416947/",
+        "imgs": [
+            "GASOLLA MÓVEIS RÚSTICOS1.jpg",
+            "GASOLLA MÓVEIS RÚSTICOS2.jpg",
+            "GASOLLA MÓVEIS RÚSTICOS3.jpg"
+        ]
+    },
+    {
+        "id": 50,
+        "title": "ATIVA SPORT",
+        "lat": -22.7797416,
+        "lng": -46.58875,
+        "zindex": 7,
+        "desc": "Compra de produtos esportivos e serviço de manutenção em bicicleta para cicloturistas. Segunda à sábado das 9h às 18h.",
+        "tel": "(11)99957-0205",
+        "address": "Ria Matilde Franco de Godoi, 148 centro",
+        "url": "https://www.facebook.com/loja.ativasport",
+        "imgs": [
+            "ATIVA SPORT1.jpg",
+            "ATIVA SPORT2.jpg",
+            "ATIVA SPORT3.jpg"
+        ]
+    },
+    {
+        "id": 51,
+        "title": "P.A.C. – PINHALZINHO AIR SOFT CAMP",
+        "lat": -22.7492528, 
+        "lng": -46.6101352,
+        "zindex": 6,
+        "desc": "Prática de jogos de Airsoft baseados em estratégias militares. Agendamos visitas e jogos via redes sociais e whatsApp. Dias agendados via redes sociais e whatsApp.",
+        "tel": "(11)96186-7051",
+        "address": "Rua 3, nº15 Recanto das Andorinhas",
+        "url": "https://pacpinhalzinhoairsoftcamp.negocio.site/",
+        "imgs": [
+            "PAC.jpg",
+            "PAC2.jpg"
+        ]
+    },
+    {
+        "id": 52,
+        "title": "RAFIKI VIAGENS E TURISMO",
+        "lat": -22.7860175,
+        "lng": -46.5917595,
+        "zindex": 5,
+        "desc": "Passeios turísticos na cidade e caminhadas. Todos os dias da semana das 9h às 17h.",
+        "tel": "(11)99193-4699",
+        "address": "Rua Antonio Nunes de Barros, 262 Jardim Albertina",
+        "url": "",
+        "imgs": []
+    },
+    {
+        "id": 53,
+        "title": "RANCHO D&A",
+        "lat": -22.7761554,
+        "lng": -46.5794982,
+        "zindex": 4,
+        "desc": "Passeio a cavalo.. hospedagem de equinos.. Venda de queijos e doces artesanais.",
+        "tel": "(11)99681-5319",
+        "address": "Estrada Principal - Bairro do Areal",
+        "url": "",
+        "imgs": [
+            "RANCHO D_A.jpg",
+            "RANCHO D_A2.jpg",
+            "RANCHO D_A3.jpg"
+        ]
+    },
+    {
+        "id": 54,
+        "title": "ORELHA’S TOUR LOCADORA DE VEÍCULOS",
+        "lat": -22.7814521,
+        "lng": -46.5946259,
+        "zindex": 3,
+        "desc": "Locação de ônibus/Microonibus ou van. De segunda à sábado",
+        "tel": "(11)99847-4149",
+        "address": "Rua João Domingues de Siqueira, 169 Jardim Albertina",
+        "url": "https://pt-br.facebook.com/Orelhas-TOUR-466960303810392/?ref=page_internal",
+        "imgs": [
+            "Orelha_s Tour.jpg"
+        ]
+    },
+    {
+        "id": 55,
+        "title": "ATELIÊ NÍVEA PIFFER RIBEIRO",
+        "lat": -22.7446581,
+        "lng": -46.5667615,
+        "zindex": 2,
+        "desc": "Venda de artesanato em feltro e outros. Também sob encomendas. Segunda a sexta das 9 às 18, sábados e domingos das 9 às 14",
+        "tel": "(11)95040-6884",
+        "address": "Rua Dolores Ginez Gutierres, 266 Jardim do Pinhal",
+        "url": "https://www.facebook.com/NiveaPifferRibeiro/",
+        "imgs": [
+            "ATELIE NÍVEA PIFFER1.jpg",
+            "ATELIE NIVEA PIFFER2.jpg",
+            "ATELIE NIVEA PIFFER3.jpg"
+        ]
+    },
+    {
+        "id": 56,
+        "title": "CulTURarte Receptivo turístico e Loft Rural do Cumpadi Luiz, hospedagem",
+        "lat": -22.7368702,
+        "lng": -46.5491266,
+        "zindex": 1,
+        "desc": "Roteiros turísticos variados e personalizados  na cidade e região, caminhadas ecológicas, experiências da vida rural e esportes na natureza. Serviço de Guia de Turismo. Mediante agendamento. Hospedagem do Loft Rural: informações no mesmo telefone e reservas pelo AIRBNB",
+        "tel": "(11)99870-4415",
+        "address": "Rua 4, nº 20 - Bairro Cachoeirinha",
+        "url": "https://www.facebook.com/culturarteloftruralcumpadiluiz/",
+        "imgs": [
+            "CULTURART E LOFT RURAL.jpg",
+            "CULTURART.jpg",
+            "LOFT RURAL CUMPADE LUIZ1.JPG",
+            "LOFT RURAL CUMPADE LUIZ2.jpg"
+        ]
+    },
+    {
+        "id": 72,
+        "title": "ALEANDRA MOREIRA SIMÕES",
+        "lat": -22.7820033, 
+        "lng": -46.5897438,
+        "zindex": 1,
+        "desc": "Guia de turismo. Mediante agendamento.",
+        "tel": "(19)99852-7379",
+        "address": "",
+        "url": "",
+        "imgs": []
+    }
+]

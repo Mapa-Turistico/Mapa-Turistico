@@ -1,0 +1,405 @@
+[
+    {
+        "id": 7,
+        "title": "POUSADA VALE DAS MARITACAS",
+        "lat": -22.7376523,
+        "lng": -46.6170791,
+        "zindex": 28,
+        "desc": "HOSPEDAGEM COM ÁREA DE LAZER – 24 horas",
+        "tel": "(11)94023-6504",
+        "address": "ESTRADA ADOLFO TORICELLI, KM 7",
+        "url": "https://www.pousadavaledasmaritacas.com.br/",
+        "imgs": [
+            "POUSADA VALE DAS MARITACAS.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "CAPELA NOSSA SENHORA DE FÁTIMA BAIRRO ROSA MENDES",
+        "lat": -22.7729368,
+        "lng": -46.5514272,
+        "zindex": 27,
+        "desc": "Dia da padroeira 13/05",
+        "tel": "",
+        "address": "Bairro Rosa Mendes",
+        "url": "",
+        "imgs": [
+            "CAPELA NOSSA SENHORA DE FÁTIMA - BAIRRO ROSA MENDES.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "CAPELA NOSSA SENHORA DAS GRAÇAS BAIRRO JARDIM PINHAL",
+        "lat": -22.7448789,
+        "lng": -46.5670216,
+        "zindex": 26,
+        "desc": "Dia da padroeira 27/11",
+        "tel": "",
+        "address": "Bairro Jardim Pinhal",
+        "url": "",
+        "imgs": [
+            "Capela Nossa Senhora das Graças - Jardim Pinhal.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "CAPELA SÃO SEBASTIÃO BAIRRO AREAL",
+        "lat": -22.7661207,
+        "lng": -46.5682316,
+        "zindex": 25,
+        "desc": "Dia do padroeiro 20/01",
+        "tel": "",
+        "address": "Bairro Areal",
+        "url": "",
+        "imgs": [
+            "CAOELA SÃO SEBASTIÃO 1 - BAIRRO AREAL.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "CAPELA SÃO BENEDITO  CENTRO",
+        "lat": -22.7778757,
+        "lng": -46.591599,
+        "zindex": 24,
+        "desc": "Dia do padroeiro 04/04",
+        "tel": "",
+        "address": "Centro",
+        "url": "",
+        "imgs": [
+            "CAPELA SÃO BENEDITO.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "CAPELA SÃO JUDAS TADEU E SANTA TEREZINHA DO MENINO JESUS BAIRRO CAPINZEIRO",
+        "lat": -22.820334,
+        "lng": -46.613722,
+        "zindex": 23,
+        "desc": "Antigamente capela devota à Santa Terezinha, e quando viram a necessidade de ampliá-la, o padre da época decidiu mudar seu padroeiro para  São Judas, pois no município já havia outra capela a mesma Santa Terezinha. A partir de 2019 foi adicionada a santa com padroeira junto com São Judas Tadeu. Dia do padroeiro em 28/10.",
+        "tel": "",
+        "address": "Bairro Capinzeiro",
+        "url": "",
+        "imgs": [
+            "Capela São Judas Tadeu e Santa Terezinha.jpg"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "CAPELA SANTO ANTONIO BAIRRO CACHOEIRINHA 2",
+        "lat": -22.7463989,
+        "lng": -46.555917,
+        "zindex": 22,
+        "desc": "Dia do padroeiro em 13/06",
+        "tel": "",
+        "address": "Bairro Cachoeirinha",
+        "url": "",
+        "imgs": []
+    },
+    {
+        "id": 14,
+        "title": "CAPELA SÃO LÁZARO CENTRO",
+        "lat": -22.7803656,
+        "lng": -46.5891522,
+        "zindex": 21,
+        "desc": "Dia do padroeiro em 17/12",
+        "tel": "",
+        "address": "Centro",
+        "url": "",
+        "imgs": [
+            "Capela São Lázaro  Centro.png"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "CAPELA SANTA TEREZINHA BAIRRO CACHOEIRINHA 1 ",
+        "lat": -22.7347663,
+        "lng": -46.5650797,
+        "zindex": 20,
+        "desc": "Dia da padroeira em 01/10",
+        "tel": "",
+        "address": "Bairro Cachoeirinha",
+        "url": "",
+        "imgs": [
+            "Capela Santa Terezinha - Cachoeirinha I.jpg"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "CAPELA MÃE PRETA BAIRRO FAZENDA VELHA",
+        "lat": -22.7626388,
+        "lng": -46.5973085,
+        "zindex": 19,
+        "desc": "A capela está localizada no local onde uma senhora negra, andarilha da região, faleceu.",
+        "tel": "",
+        "address": "Bairro Fazenda Velha",
+        "url": "",
+        "imgs": [
+            "Capela Mãe Preta - Fazenda Velha2.jpg"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "CAPELA DE SANTA CRUZ BAIRRO FAZENDA VELHA",
+        "lat": -22.7626388,
+        "lng": -46.5972085,
+        "zindex": 18,
+        "desc": "A mais de cem anos, de propriedade da família Isaías Franco Penteado, foi construída a capela pela devoção à Santa Cruz. TODOS OS ANOS NO DIA 03/05 É RELAIZADA UMA HOMENAGEM À SANTA CRUZ",
+        "tel": "",
+        "address": "Bairro Fazenda Velha",
+        "url": "",
+        "imgs": [
+            "Capela Santa Cruz - Fazenda Velha1.jpg"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "CAPELA SÃO JOSÉ BAIRRO FAZENDA VELHA",
+        "lat": -22.7490581,
+        "lng": -46.5977836,
+        "zindex": 17,
+        "desc": "Antigamente uma grande  fazenda de café onde seus donos, devotos de São José, construíram sua capela, assim deu-se início ao bairro Fazenda Velha. Festa da padroeira em 19/03",
+        "tel": "",
+        "address": "Bairro Fazenda Velha",
+        "url": "",
+        "imgs": [
+            "Capela São José - Fazenda Velha1.jpg"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "CAPELA NOSSA SENHORA APARECIDA BAIRRO APARECIDINHA",
+        "lat": -22.7607883,
+        "lng": -46.6391516,
+        "zindex": 16,
+        "desc": "Construída a mais de 120 anos através de doações de terrenos para moradores e para a capela. Festa da padroeira em 12/10",
+        "tel": "",
+        "address": "Bairro Aparecidinha",
+        "url": "",
+        "imgs": [
+            "CAPELA NOSSA SENHORA APARECIDA  BAIRRO APARECIDINHA.png"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "CAPELA SANTA CRUZ  BAIRRO DA TAPERA",
+        "lat": -22.7246431,
+        "lng": -46.5743279,
+        "zindex": 15,
+        "desc": "Doravante uma localidade com aspecto lúgubre e semi abandonado, onde os mortos eram ali mesmo enterrados, foi então erguido um pequeno cruzeiro, que a crendice popular dizia realizar graças, até ser erguida a capela dedicada à Santa cruz. Festa em 15/09.",
+        "tel": "",
+        "address": "Bairro da Tapera",
+        "url": "",
+        "imgs": [
+            "CAPELA DO BAIRRO DA TAPERA.jpg"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "CAPELA NOSSA SENHORA APARECIDA BAIRRO DOS VIEIRAS",
+        "lat": -22.8074372,
+        "lng": -46.5514484,
+        "zindex": 14,
+        "desc": "Construída em 1939, para que as pessoas que transitavam na estrada, ainda de terra, entre Socorro e Bragança Paulista, pudessem descansar, com seus cavalos, carroças e carros de boi. Dia da padroeira 12/10",
+        "tel": "",
+        "address": "Bairro dos Vieiras",
+        "url": "",
+        "imgs": [
+            "CAPELA NOSSA SENHORA APARECIDA   BAIRRO DOS VIEIRAS.jpg"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "PARÓQUIA SANTO AFONSO MARIA DE LIGÓRIO",
+        "lat": -22.7859547,
+        "lng": -46.5899706,
+        "zindex": 13,
+        "desc": "Como houve um crescimento grande da cidade e, consequentemente, várias capelas construídas nos bairros, foi construída essa igreja e assim foi feita a divisão de capelas para as 2 paróquias (Nossa Senhora de Copacabana e Santo Afonso). DIA DO PADROEIRO - 01/08",
+        "tel": "",
+        "address": "RUA AURÉLIO BUENO - Bairro Populares",
+        "url": "",
+        "imgs": [
+            "IGREJA SANTO AFONSO.jpg"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "IGREJA NOSSA SENHORA DE COPACABANA MITRA DIOCESANA DE BRAGANÇA PAULISTA MATRIZ",
+        "lat": -22.7791071,
+        "lng": -46.5903568,
+        "zindex": 12,
+        "desc": "Construída em 1921, a partir daí, através de doações de terrenos ao redor da igreja a cidade começou a crescer. Dia da padroeira 02/02, porém a festa em Pinhalzinho é feita no dia 24/09, que é o dia em que a imagem da santa chegou aqui na cidade.",
+        "tel": "",
+        "address": "Praça Nossa Senhora",
+        "url": "",
+        "imgs": [
+            "IGREJA NOSSA SENHORA DE COPACABANA.jpg"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "TERMINAL RODOVIÁRIO MARIA TORICELLI FORNARI",
+        "lat": -22.7821518,
+        "lng": -46.5846872,
+        "zindex": 11,
+        "desc": "COMPRA DE PASSAGENS",
+        "tel": "(11)4018-1345 / (11)99616-3160",
+        "address": "Variante Américo Pedro Benedete, 960",
+        "url": "",
+        "imgs": [
+            "TERMINAL RODOVIÁRIO.jpg"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "PARQUE MUNICIPAL OCTAVIANO FORNARI",
+        "lat": -22.7815395,
+        "lng": -46.5919985,
+        "zindex": 10,
+        "desc": "Área de lazer com brinquedos e academia de musculação.",
+        "tel": "",
+        "address": "Rua Cruzeiro do Sul, Centro",
+        "url": "",
+        "imgs": [
+            "PARQUE MUNICIPAL 1.jpg"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "LAGO MUNICIPAL",
+        "lat": -22.7831829,
+        "lng": -46.5902134,
+        "zindex": 9,
+        "desc": "ÁREA DE LAZER COM LAGO, BRINQUEDOS, PISTA DE SKATE, ACADEMIA DE MUSCULAÇÃO AO AR LIVRE.",
+        "tel": "",
+        "address": "Rua 24 de dezembro, Jardim do Limão.",
+        "url": "",
+        "imgs": [
+            "LAGO MUNICIPAL 2.jpg",
+            "LAGO MUNICIPAL1.jpg"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "KAPIM EVENTO-CHÁCARA MÃE DA PROVIDÊNCIA",
+        "lat": -23.2150598,
+        "lng": -46.843324,
+        "zindex": 8,
+        "desc": "Locação para eventos.",
+        "tel": "(11)97198-8934",
+        "address": "Bairro Capinzeiro",
+        "url": "",
+        "imgs": [
+            "KAPIM EVENTOS1.jpg",
+            "KAPIM EVENTOS2.jpg",
+            "KAPIM EVENTOS3.jpg"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "POUSADA RECANTO DA FAZENDA",
+        "lat": -22.750019,
+        "lng": -46.5892115,
+        "zindex": 7,
+        "desc": "HOSPEDAGEM, LAZER, TURISMO RURAL, GASTRONOMIA. PRODUTOS DE EMPÓRIO. AOS FINAIS DE SEMANA, FERIADOS E DATAS COMEMORATIVAS.",
+        "tel": "(11)93800-8616 / (11)4018-2459",
+        "address": "Acesso Bairro Fazenda Velha",
+        "url": "https://pousadarecantodafazenda.com.br/",
+        "imgs": [
+            "POUSADA RECANTO DA FAZENDA1.jpg",
+            "POUSADA RECANTO DA FAZENDA2.jpg",
+            "POUSADA RECANTO DA FAZENDA3.jpg"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "CHÁCARAS BRUNA",
+        "lat": -22.7276514,
+        "lng": -46.5602774,
+        "zindex": 6,
+        "desc": "Hospedagem mediante reservas prévias.",
+        "tel": "(11)99606-1278",
+        "address": "",
+        "url": "",
+        "imgs": [
+            "CHÁCARAS BRUNA1.jpg",
+            "CHÁCARAS BRUNA2.jpg",
+            "CHÁCARAS BRUNA3.jpg"
+        ]
+    },
+    {
+        "id": 30,
+        "title": "SOCIETY PINHALZINHIO",
+        "lat": -22.783159,
+        "lng": -46.578475,
+        "zindex": 5,
+        "desc": "Locação de quadra para jogos de futebol com os amigos, churrasco, malha e bocha. Segunda a segunda. O campo funciona com horário marcado, necessário reservas antecipadas. O Bar oferece lanches, salgados, petiscos e bebidas e está aberto todos os dias a partir das 14h.",
+        "tel": "(11)4018-4148",
+        "address": "Variante Américo Pedro Benedetti, Km 1",
+        "url": "",
+        "imgs": [
+            "SOCIETY PINHALZINHO1.jpg",
+            "SOCIETY PINHALZINHO2.jpg"
+        ]
+    },
+    {
+        "id": 31,
+        "title": "AUTO POSTO IRMÃOS FRANCO",
+        "lat": -22.783159,
+        "lng": -46.578375,
+        "zindex": 4,
+        "desc": "Combustível para automóveis, lavagem de veículos e troca de óleo. 24h por dia, 7 dias da semana",
+        "tel": "(11)4018-4148",
+        "address": "Variante Américo Pedro Benedetti, Km 1",
+        "url": "",
+        "imgs": [
+            "AUTO POSTO IRMÃOS FRANCO.jpg"
+        ]
+    },
+    {
+        "id": 32,
+        "title": "AUTO POSTO ANA",
+        "lat": -22.7810133,
+        "lng": -46.5877816,
+        "zindex": 3,
+        "desc": "Combustível para automóveis, lavagem de veículos e troca de óleo. 24h por dia, 7 dias da semana",
+        "tel": "(11)4018-1882",
+        "address": "Travessa Silvino de Campos, 1 centro",
+        "url": "",
+        "imgs": [
+            "AUTO POSTO ANA - IPIRANGA.jpg",
+            "AUTO POSTO ANA1.jpg"
+        ]
+    },
+    {
+        "id": 33,
+        "title": "POUSADA CORAÇÃO DAS ESTÂNCIAS",
+        "lat": -22.7798364,
+        "lng": -46.5883806,
+        "zindex": 2,
+        "desc": "Hospedagem com passeios e lazer – Todos os dias 24h.",
+        "tel": "(11)4018-4981 / (11)97164-8346",
+        "address": "Rua Matilde Franco de Godoi, 183 centro",
+        "url": "https://www.facebook.com/pages/category/Inn/Pousada-cora%C3%A7%C3%A3o-das-estancias-1382492411983910/",
+        "imgs": [
+            "Pousada Coração das Estâncias.jpg"
+        ]
+    },
+    {
+        "id": 34,
+        "title": "PARK HOTEL MODELO",
+        "lat": -22.783359,
+        "lng": -46.584748,
+        "zindex": 1,
+        "desc": "Hospedagem com área de lazer – 24 horas",
+        "tel": "(11) 4018-4953",
+        "address": "Avenida da Saudade, 10A centro",
+        "url": "https://parkhotelmodelo.com.br/",
+        "imgs": [
+            "PARK HOTEL MODELO1.jpg",
+            "PARK HOTEL MODELO2.jpg",
+            "PARK HOTEL MODELO3.jpg",
+            "PARK HOTEL MODELO4.jpg",
+            "PARK HOTEL MODELO5.jpg"
+        ]
+    }
+]
